@@ -6,7 +6,7 @@
 
 ## Features
 
-![image](https://user-images.githubusercontent.com/66129931/155898126-433a28d2-7dc9-4e0b-ac6c-ee670f5b4aa7.png)
+![image](https://user-images.githubusercontent.com/66129931/155898298-2453a426-119d-4225-90f4-46d25d037bd7.png)
 
 ## Dependencies
 
